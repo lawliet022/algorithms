@@ -1,0 +1,22 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "iomanip": "cpp",
+        "ostream": "cpp",
+        "random": "cpp",
+        "iosfwd": "cpp",
+        "__availability": "cpp",
+        "__config": "cpp",
+        "__string": "cpp",
+        "deque": "cpp",
+        "filesystem": "cpp",
+        "atomic": "cpp",
+        "*.tcc": "cpp",
+        "compare": "cpp",
+        "optional": "cpp",
+        "future": "cpp",
+        "numeric": "cpp",
+        "sstream": "cpp",
+        "cmath": "cpp"
+    }
+}

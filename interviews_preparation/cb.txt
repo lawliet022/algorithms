@@ -1,0 +1,146 @@
+6 june
+	‌Pointers
+	‌Reference
+	‌Bitwise operators (& | ~ ! << >>)
+	‌Setting on, off, flipping bits of a number
+	‌Multiply by 9 or 14
+	‌filling zeros in between ones
+	‌All subsets using bitmasks
+
+8 june
+	‌Inclusion exclusion using bitmasks all subsets - no of numbers divisible by any prime no in 1-20 example in range 1e18
+	‌Sliding window sum k
+	‌Sum of xor of all subarrays
+	‌Tiling recursion 1*4 in n*4
+	‌No of ways of to write a binary string of length such that there are no consecutive ones
+
+10 june
+	‌Bike - friends ( n bikes n friends, no of ways they go) problem recursion
+	‌Bubble sort recursion
+	‌Tower of hanoi recursion
+	‌Merge sort recursion
+	‌Inversion count
+	‌All subsets using recursion
+	‌All permutation recursion
+
+13 June
+	‌STL
+	‌vector set pair 
+	‌class in vector for 3 variables or more
+	‌comparter function in sorting
+	‌operator overloding in class on < for comparison in sort or using set of class
+	‌rat in maze - is there a path, count all paths, print all paths. Moves - right and down
+	‌n queens all possible grid print and count of ways
+
+15 June
+	‌Print all possible n bracket sequences recursion
+	‌Sudoko solve recursion
+	‌n knights recursion problem (geeks)
+	‌phone keypad all words print 
+	Starting DnC
+	‌Binary search
+	‌lower_bound and upper bound using while loop
+	‌aggrcow spoj
+	‌prata spoj
+	‌eko spon
+	‌winning cb scholarship
+
+17 june
+	‌read the pages - hackerblocks 
+	‌sliding window 1 plot minimise area of val k
+	‌sliding window 2 plot minimise area of val - from iarcs.org
+	‌rain water trapping problem geeks
+‌
+‌
+‌	OOPS
+‌		shallow copy and deep copy
+‌
+20 June
+	‌implement vector using dynamic memory allocation and all its features PB popback [ ] 
+	‌linked list insert in front, end and middle
+	‌initialising list in class ( new way to write constructor)
+	‌deletion in linked list
+	‌head tail linked list
+	‌searching and revsersing in a linked list iterative and recursive
+	‌bubble sort and merge sort on linked list
+	‌reversing every k nodes
+	‌finding common point of intersection of 2 linked list
+	‌cycle in a linked list.. yes no if yes break it
+	‌xor linked list
+	‌doubly linked list
+	‌Circular linked list
+
+22 June
+	Build a binary tree recursive and iterative
+	Print Preorder, inorder, postorder of a tree
+	Print all nodes at level k
+	Find height of a tree
+	Print all levels i.e. all nodes levelwise (O(n^2) and O(n) - hint bfs)
+	Count nodes in a binary tree
+	Replace value of every node by sum of its descendents
+	Level Order build of a tree
+	Find diameter of a tree (O(n^2) and O(n))
+	Find if a tree is height balanced - abs(h1-h2) <= 1
+	Max sum of all nodes value without taking any adjacent node (No parent-child pair)
+	Print all paths in a tree from root to leaf
+	Update a tree as its mirror (Not asking to print but to update the pointers)
+	
+	// Binary tree - Implementation recursive and Iterative
+	// Print - preorder inorder postorder and printing level by level
+	// count nodes recursive
+	// sum of nodes recursive
+	// replace every node with sum of all its descendent nodes
+	// Level wise print in O(n^2) using recursion and O(n) using bfs
+	// Build a binary tree from levelwise order input (hint - bfs)
+	// Check Height balanced tree => abs(h1-h2) <= 1 (Hint- Post order traversal)
+	// max sum of values in a tree- not taking adjacent nodes
+	
+24 June
+	insert in BST
+	‌searching in BST
+	‌delete in a BST - leaf node, node with 1 child, node with 2 child
+	‌create a height balanced BST
+	‌BST to linked list
+	‌preorder to bst
+	‌count number of BST and BT with n keys
+	‌read catalan number application from geeks
+	‌left, top, right, bottom view of a tree
+
+27 June
+	‌print all nodes at distance of k from given node in tree
+	‌LCA
+	‌heap - push pop top implementation
+	‌converting an array to heap in O(n) (heapify). Now can take k elements out in klogn
+	‌priorityqueue stl - min and max
+	‌functional objects in priority queue stl
+	‌set in descending order stl
+	‌running infinite input stream. Find k largest numbers at any point of time - hint min heap complexity nlogk and uaing max we get nk
+	‌sorting k sorted lists using priority queue in O(nklogk)
+	‌RMID spoj problem
+
+29 june
+	‌Hashing basics 
+	‌custom comparator for c++ STLs ex set priority queue etc
+	‌hashmap basic implementation
+	‌rat in jungle hackerblocks
+
+1 July
+	Drawboard PDF software
+	‌fibonacci 10^18 using top down codeforces blog or use matrix exponentiation
+	‌min coin required to form a sum using a given set of coin - bottom up and top down
+	‌No of ways to climb to nth stair using atmost k steps at a time - top down, bottom up
+	‌number game 2 player one picks a number otber deletes its adjacent numbers - max sum
+	‌tiling problem using dp
+	‌2 player picking numbers from ends.. 1. Find strategy so that first player always wins 2. Maximize the final difference between their scores
+
+
+4 july
+	01 knapsack
+	Wines dp problem - maximize sum.. every year price of a bottle is year*val
+	Grid number of ways if can move down right.. any number of steps n³
+	Optimise ladder dp to O(n)
+	‌max sum in grid with atmost one common point bw 2 person moving to opposite corner
+	‌LCS and k replace LCS
+	‌lis n2 and nlogn 
+	‌replace delete and insert with different costs fi d min cost to make one string qequal to orher
+

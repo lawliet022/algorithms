@@ -1,0 +1,14 @@
+* Leetcode
+* GeeksforGeeks
+* OOPs + DBMS + Basic Networking + Java
+* System Design Youtube
+* Django Course
+
+Competitive Coding
+	* Codeforces Blogs + CCDSAP material
+	* Codechef Blog
+	* Topcoder Blog
+	* cp-algorithms
+	
+------------------------------------------------------------------------
+

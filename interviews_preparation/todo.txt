@@ -1,0 +1,48 @@
+Targets:-
+	* Google
+	* Amazon
+	* Codenation
+	* Directi
+	* Microsoft
+
+Competitive Programming and Interviews Preperation:-
+	* GeeksforGeeks Practice Section
+	* InterviewBit
+	* Leetcode
+	* Codeforces 100 Div2
+	* All good tutorials on codeforces	- Codeforces
+	* Good Blog Post					- Codeforces
+	* Topcoder Tutorials
+	* CCDSAP All Questions
+	* Data Science and algorithms tutorials - Codechef
+
+Others:-
+	* Recommendation System Project
+	* DBMS
+	* Operating System
+	* System Design
+	* Computer Networks
+
+
+
+
+
+
+
+𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 𝗘𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲𝘀: https://www.geeksforgeeks.org/company-interview-corner/
+
+𝗖𝗼𝗱𝗶𝗻𝗴 𝗣𝗿𝗼𝗯𝗹𝗲𝗺𝘀:
+1. https://www.interviewbit.com/courses/programming/
+2. https://leetcode.com/problemset/algorithms/
+3. https://www.geeksforgeeks.org/must-coding-questions-compan…/
+4. https://www.geeksforgeeks.org/must-do-coding-questions-for…/
+5. https://www.hackerrank.com/interv…/interview-preparation-kit
+
+𝗣𝘂𝘇𝘇𝗹𝗲𝘀:
+1. https://www.interviewbit.com/puzzles/
+2. https://www.geeksforgeeks.org/puzzles/
+
+𝗦𝘆𝘀𝘁𝗲𝗺 𝗗𝗲𝘀𝗶𝗴𝗻:
+1. https://www.interviewbit.com/courses/system-design/
+2. https://github.com/donnemartin/system-design-primer
+
